@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ukrainian-army-react-app/static/js/main.d2190df3.js",
+    "static/media/soldier.png": "/ukrainian-army-react-app/static/media/soldier.5af1ec2db65b1bd02d86.png",
+    "static/media/e-UkraineHead-Bold.otf": "/ukrainian-army-react-app/static/media/e-UkraineHead-Bold.92a625ab24ee7ea67a41.otf",
+    "static/media/tractor.png": "/ukrainian-army-react-app/static/media/tractor.420faf9531c503259544.png",
+    "static/media/rocket.png": "/ukrainian-army-react-app/static/media/rocket.06295c6b191b2b757513.png",
+    "static/media/wheat.png": "/ukrainian-army-react-app/static/media/wheat.584b92371b84fbfea1ff.png",
+    "static/media/watermelon.png": "/ukrainian-army-react-app/static/media/watermelon.a685bb5e79aaa75c4367.png",
+    "static/media/helmet.png": "/ukrainian-army-react-app/static/media/helmet.dbb0e9b1c86bbeaca8cc.png",
+    "static/media/instagram.svg": "/ukrainian-army-react-app/static/media/instagram.a1b88b797b6f01133f14f4715f07c23f.svg",
+    "static/media/twitter.svg": "/ukrainian-army-react-app/static/media/twitter.f13854b3b67c7f49e3c3ece0c7d22fca.svg",
+    "static/media/facebook.svg": "/ukrainian-army-react-app/static/media/facebook.9ca4552311490271c3d47b13f0de0102.svg",
+    "index.html": "/ukrainian-army-react-app/index.html",
+    "main.d2190df3.js.map": "/ukrainian-army-react-app/static/js/main.d2190df3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d2190df3.js"
+  ]
+}
